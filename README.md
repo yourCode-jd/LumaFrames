@@ -14,7 +14,7 @@ This project focuses on minimal UI, smooth transitions, and responsive layouts f
 
 ## 🚀 Github Demo
 
-[View Here](https://yourcode-jd.github.io/AI/)
+[View Here](https://yourcode-jd.github.io/LumaFrames/)
 
 ---
 
