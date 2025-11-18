@@ -30,7 +30,7 @@ This project focuses on minimal UI, smooth transitions, and responsive layouts f
 
 ### 🖼️ Collection Page
 
-![Collection Page](./public/images/LumaFrames_mobile.png)
+![Collection Page](./public/images/LumaFrames_collection.png)
 
 ### 📄 Product Details Page
 
