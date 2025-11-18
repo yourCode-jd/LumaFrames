@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LumaFrames
 
-## Getting Started
+**Tagline:** “Where Every Photo Finds Its Perfect Frame.”
 
-First, run the development server:
+A clean and modern photo-frame eCommerce interface built with Next.js and Tailwind CSS. The project includes pages for:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Home / Index – Hero section, featured frames, categories
+Collections Page – Grid-based layout showcasing available frame styles
+Product Details Page – Large preview, zoom, pricing, sizes, add-to-cart section
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project focuses on minimal UI, smooth transitions, and responsive layouts for a premium user experience.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Github Demo
 
-## Learn More
+[View Here](https://yourcode-jd.github.io/AI/)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📸 Screenshots
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🏠 Home Page
 
-## Deploy on Vercel
+![Home Page](./public/images/LumaFrames_desktop.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🖼️ Home Page Responsive
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![Home Page Responsive](./public/images/LumaFrames_mobile.png)
+
+### 🖼️ Collection Page
+
+![Collection Page](./public/images/LumaFrames_mobile.png)
+
+### 📄 Product Details Page
+
+![Product Details](./public/images/LumaFrames_Pdetail.png)
+
+---
+
+## 🛠 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
