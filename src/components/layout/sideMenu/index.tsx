@@ -4,7 +4,20 @@ import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 
-const navLinks = [
+type SubMenuItem = {
+  id: number;
+  label: string;
+  href: string;
+};
+
+type NavLink = {
+  id: number;
+  label: string;
+  href: string;
+  subMenu?: SubMenuItem[];
+};
+
+const navLinks: NavLink[] = [
   { id: 1, label: "Home", href: "/" },
   { id: 2, label: "Shop", href: "/collection" },
 ];
