@@ -57,7 +57,7 @@ export default function Blogs() {
             <div className='content-container'>
                 <h2 className='mainHeading'>Our Blogs</h2>
                 <p className='mainText max-w-2xl'>
-                    Explore Skyline Scenes' most popular image galleries for breathtaking aerial photography, perfect for enhancing any space with stunning views.
+                    Explore LumaFrames&apos; most popular image galleries for breathtaking aerial photography, perfect for enhancing any space with stunning views.
                 </p>
 
                 <ul className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 my-[30px]  md:my-[50px] lg:my-[90px]'>
