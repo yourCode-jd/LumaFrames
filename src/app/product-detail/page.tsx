@@ -65,7 +65,7 @@ export default function Page() {
             height: 290,
             title: "Aerial of Downtown Raleigh, North Carolina",
             priceText: "Started from $9",
-            link: "#",
+            link: "/product-detail",
         },
         {
             id: 2,
@@ -74,7 +74,7 @@ export default function Page() {
             height: 290,
             title: "The Faraglioni Rocks",
             priceText: "Started from $9.45",
-            link: "#",
+            link: "/product-detail",
         },
         {
             id: 3,
@@ -83,7 +83,7 @@ export default function Page() {
             height: 290,
             title: "Charlotte Skyline with Bank of America Stadium",
             priceText: "Started from $40",
-            link: "#",
+            link: "/product-detail",
         },
         {
             id: 4,
@@ -92,7 +92,7 @@ export default function Page() {
             height: 290,
             title: "Gateway Arch, Saint Louis, Missouri",
             priceText: "Started from $9.45",
-            link: "#",
+            link: "/product-detail",
         },
         {
             id: 5,
@@ -101,7 +101,7 @@ export default function Page() {
             height: 290,
             title: "Punta Carena Lighthouse on Isle of Capri",
             priceText: "Started from $9.45",
-            link: "#",
+            link: "/product-detail",
         },
     ]
 

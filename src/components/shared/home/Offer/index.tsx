@@ -10,21 +10,21 @@ export default function Offer() {
             image: "/images/home/offer1.png",
             title: "For Hire",
             description: "Project photography aerial & architectural",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 2,
             image: "/images/home/offer2.png",
             title: "Wholesale",
             description: "Project photography aerial & architectural",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 3,
             image: "/images/home/offer3.png",
             title: "Special Request",
             description: "Project photography aerial & architectural",
-            link: "#",
+            link: "/collection",
         },
     ]
 

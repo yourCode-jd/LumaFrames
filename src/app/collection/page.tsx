@@ -44,18 +44,18 @@ export default function Collection() {
     const itemsPerPage = 6;
 
     const galleryData = [
-        { id: 1, image: "/images/home/gallery1.png", width: 370, height: 290, title: "Albany, NY", link: "#" },
-        { id: 2, image: "/images/home/gallery2.png", width: 370, height: 290, title: "Chicago, IL", link: "#" },
-        { id: 3, image: "/images/home/gallery3.png", width: 370, height: 290, title: "Belgium", link: "#" },
-        { id: 4, image: "/images/home/gallery4.png", width: 370, height: 290, title: "Birmingham, UK", link: "#" },
-        { id: 5, image: "/images/home/gallery5.png", width: 370, height: 290, title: "Dallas, TX", link: "#" },
-        { id: 6, image: "/images/home/gallery6.png", width: 370, height: 290, title: "Gold Coast, AU", link: "#" },
-        { id: 7, image: "/images/home/gallery7.png", width: 370, height: 290, title: "Greenville, SC", link: "#" },
-        { id: 8, image: "/images/home/gallery8.png", width: 370, height: 290, title: "Denver, CO", link: "#" },
-        { id: 9, image: "/images/home/gallery9.png", width: 370, height: 290, title: "Columbus, OH", link: "#" },
-        { id: 10, image: "/images/home/gallery10.png", width: 370, height: 290, title: "Indianapolis, IN", link: "#" },
-        { id: 11, image: "/images/home/gallery11.png", width: 370, height: 290, title: "New York City, NY", link: "#" },
-        { id: 12, image: "/images/home/gallery12.png", width: 370, height: 290, title: "Pittsburgh, PA", link: "#" },
+        { id: 1, image: "/images/home/gallery1.png", width: 370, height: 290, title: "Albany, NY", link: "/product-detail" },
+        { id: 2, image: "/images/home/gallery2.png", width: 370, height: 290, title: "Chicago, IL", link: "/product-detail" },
+        { id: 3, image: "/images/home/gallery3.png", width: 370, height: 290, title: "Belgium", link: "/product-detail" },
+        { id: 4, image: "/images/home/gallery4.png", width: 370, height: 290, title: "Birmingham, UK", link: "/product-detail" },
+        { id: 5, image: "/images/home/gallery5.png", width: 370, height: 290, title: "Dallas, TX", link: "/product-detail" },
+        { id: 6, image: "/images/home/gallery6.png", width: 370, height: 290, title: "Gold Coast, AU", link: "/product-detail" },
+        { id: 7, image: "/images/home/gallery7.png", width: 370, height: 290, title: "Greenville, SC", link: "/product-detail" },
+        { id: 8, image: "/images/home/gallery8.png", width: 370, height: 290, title: "Denver, CO", link: "/product-detail" },
+        { id: 9, image: "/images/home/gallery9.png", width: 370, height: 290, title: "Columbus, OH", link: "/product-detail" },
+        { id: 10, image: "/images/home/gallery10.png", width: 370, height: 290, title: "Indianapolis, IN", link: "/product-detail" },
+        { id: 11, image: "/images/home/gallery11.png", width: 370, height: 290, title: "New York City, NY", link: "/product-detail" },
+        { id: 12, image: "/images/home/gallery12.png", width: 370, height: 290, title: "Pittsburgh, PA", link: "/product-detail" },
     ];
 
     // Pagination

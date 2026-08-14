@@ -10,7 +10,7 @@ export default function ChooseProduct() {
             width: 233,
             height: 255,
             title: "Digital Stock",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 2,
@@ -18,7 +18,7 @@ export default function ChooseProduct() {
             width: 233,
             height: 255,
             title: "Fine Art Prints",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 3,
@@ -26,7 +26,7 @@ export default function ChooseProduct() {
             width: 233,
             height: 255,
             title: "Mounted Canvas",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 4,
@@ -34,7 +34,7 @@ export default function ChooseProduct() {
             width: 233,
             height: 255,
             title: "Aluminum Metal Prints",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 5,
@@ -42,7 +42,7 @@ export default function ChooseProduct() {
             width: 233,
             height: 255,
             title: "Acrylic Prints",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 6,
@@ -50,7 +50,7 @@ export default function ChooseProduct() {
             width: 233,
             height: 255,
             title: "Wall Murals",
-            link: "#",
+            link: "/collection",
         },
     ]
 

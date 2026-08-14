@@ -4,20 +4,9 @@ import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 
-// Example navLinks
 const navLinks = [
   { id: 1, label: "Home", href: "/" },
-  { id: 2, label: "Store", href: "/store" },
-  {
-    id: 3,
-    label: "Account",
-    href: "/account",
-    subMenu: [
-      { id: 31, label: "Profile", href: "/account/profile" },
-      { id: 32, label: "Orders", href: "/account/orders" },
-    ],
-  },
-  { id: 4, label: "Cart", href: "/cart" },
+  { id: 2, label: "Shop", href: "/collection" },
 ];
 
 const SideMenu = () => {

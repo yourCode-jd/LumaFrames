@@ -11,7 +11,7 @@ export default function Gallery() {
             width: 233,
             height: 255,
             title: "Albany, NY",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 2,
@@ -19,7 +19,7 @@ export default function Gallery() {
             width: 233,
             height: 255,
             title: "Chicago, IL",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 3,
@@ -27,7 +27,7 @@ export default function Gallery() {
             width: 233,
             height: 255,
             title: "Belgium",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 4,
@@ -35,7 +35,7 @@ export default function Gallery() {
             width: 233,
             height: 255,
             title: "Birmingham, UK",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 5,
@@ -43,7 +43,7 @@ export default function Gallery() {
             width: 233,
             height: 255,
             title: "Dallas, TX",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 6,
@@ -51,7 +51,7 @@ export default function Gallery() {
             width: 233,
             height: 255,
             title: "Gold Coast, AU",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 7,
@@ -59,7 +59,7 @@ export default function Gallery() {
             width: 233,
             height: 255,
             title: "Greenville, SC",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 8,
@@ -67,7 +67,7 @@ export default function Gallery() {
             width: 233,
             height: 255,
             title: "Denver, CO",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 9,
@@ -75,7 +75,7 @@ export default function Gallery() {
             width: 233,
             height: 255,
             title: "Columbus, OH",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 10,
@@ -83,7 +83,7 @@ export default function Gallery() {
             width: 233,
             height: 255,
             title: "Indianapolis, IN",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 11,
@@ -91,7 +91,7 @@ export default function Gallery() {
             width: 233,
             height: 255,
             title: "New York City, NY",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 12,
@@ -99,7 +99,7 @@ export default function Gallery() {
             width: 233,
             height: 255,
             title: "Pittsburgh, PA",
-            link: "#",
+            link: "/collection",
         },
     ]
 

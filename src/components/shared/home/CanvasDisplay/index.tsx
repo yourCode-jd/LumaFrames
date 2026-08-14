@@ -13,7 +13,7 @@ export default function CanvasDisplay() {
             height: 624,
             title: "License Stock Photography",
             subtitle: "For Digital Applications",
-            link: "#",
+            link: "/collection",
             large: true, // ✅ mark this for row-span-2
         },
         {
@@ -23,7 +23,7 @@ export default function CanvasDisplay() {
             height: 292,
             title: "Stretched & Mounted Canvas",
             subtitle: "Single or Multi Panel Options",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 3,
@@ -32,7 +32,7 @@ export default function CanvasDisplay() {
             height: 292,
             title: "Fine Art Prints",
             subtitle: "In Color or B&W Framed and Unframed",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 4,
@@ -41,7 +41,7 @@ export default function CanvasDisplay() {
             height: 292,
             title: "Professional Aerial Photography",
             subtitle: "Single or Multi Panel Options",
-            link: "#",
+            link: "/collection",
         },
         {
             id: 5,
@@ -50,7 +50,7 @@ export default function CanvasDisplay() {
             height: 292,
             title: "Free Shipping",
             subtitle: "On Prints and Canvas",
-            link: "#",
+            link: "/collection",
         },
     ]
 

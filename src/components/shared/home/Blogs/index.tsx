@@ -11,7 +11,7 @@ export default function Blogs() {
             height: 260,
             title: "Singapore Gallery Added",
             text: "Cityscape and skyline photos and images of Singapore taken in 2023 have been added to the website.",
-            link: "#",
+            link: "/collection",
             icon: "/icons/calendar.svg",
             date: "May 03, 2024"
         },
@@ -22,7 +22,7 @@ export default function Blogs() {
             height: 260,
             title: "Perth Skyline Photos Add...",
             text: "Cityscape and skyline photos and images of Perth Australia taken in 2023 have been added to the website",
-            link: "#",
+            link: "/collection",
             icon: "/icons/calendar.svg",
             date: "Feb 02, 2024"
         },
@@ -33,7 +33,7 @@ export default function Blogs() {
             height: 260,
             title: "New Photos Of Raleigh",
             text: "New photos of downtown Raleigh, North Carolina taken in 2023 have been added to the Raleigh photo gallery.",
-            link: "#",
+            link: "/collection",
             icon: "/icons/calendar.svg",
             date: "Feb 20, 2024"
 
@@ -45,7 +45,7 @@ export default function Blogs() {
             height: 260,
             title: "New photos of Dallas...",
             text: "New photos of Dallas are now added to the Dallas gallery page. Check out the Dallas gallery for more information on...",
-            link: "#",
+            link: "/collection",
             icon: "/icons/calendar.svg",
             date: "Feb 20, 2024"
 
