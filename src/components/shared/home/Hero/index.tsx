@@ -13,21 +13,21 @@ const slides = [
     subtitle:
       "Explore our fine art prints available in both color and black & white. Choose from framed or unframed options to perfectly complement your space.",
     image: "/images/home/banner-main.png",
-    link: "",
+    link: "https://github.com/medusajs/nextjs-starter-medusa",
   },
   {
     title: "Fine art prints in color or b&W Framed and unframed",
     subtitle:
       "Explore our fine art prints available in both color and black & white. Choose from framed or unframed options to perfectly complement your space.",
     image: "/images/home/banner-main.png",
-    link: "",
+    link: "https://github.com/medusajs/nextjs-starter-medusa",
   },
   {
     title: "Fine art prints in color or b&W Framed and unframed",
     subtitle:
       "Explore our fine art prints available in both color and black & white. Choose from framed or unframed options to perfectly complement your space.",
     image: "/images/home/banner-main.png",
-    link: "",
+    link: "https://github.com/medusajs/nextjs-starter-medusa",
   },
 ];
 

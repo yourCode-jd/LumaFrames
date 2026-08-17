@@ -12,9 +12,9 @@ This project focuses on minimal UI, smooth transitions, and responsive layouts f
 
 ---
 
-## 🚀 Github Demo
+## 🚀 Live Demo
 
-[View Here](https://yourcode-jd.github.io/LumaFrames/)
+[https://luma-frames.vercel.app/](https://luma-frames.vercel.app/)
 
 ---
 
@@ -44,5 +44,6 @@ This project focuses on minimal UI, smooth transitions, and responsive layouts f
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
