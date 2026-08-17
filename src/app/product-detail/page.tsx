@@ -6,7 +6,7 @@ import { Swiper as SwiperType } from "swiper";
 import { Thumbs } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/thumbs";
-import Image from 'next/image'
+import Image from "next/image";
 
 export default function Page() {
     const [thumbsSwiper, setThumbsSwiper] = useState<SwiperType | null>(null);
@@ -132,9 +132,12 @@ export default function Page() {
                             >
                                 {images.map((img, idx) => (
                                     <SwiperSlide key={idx} className="cursor-pointer">
-                                        <img
+                                        <Image
                                             src={img}
                                             alt={`Thumb ${idx}`}
+                                            width={110}
+                                            height={110}
+                                            sizes="(min-width: 768px) 110px, 60px"
                                             className="w-full md:h-[110px] h-[60px] object-cover p-1 border"
                                         />
                                     </SwiperSlide>
@@ -156,7 +159,14 @@ export default function Page() {
                             >
                                 {images.map((img, idx) => (
                                     <SwiperSlide key={idx}>
-                                        <img src={img} alt={`Product ${idx}`} className="w-full" />
+                                        <Image
+                                            src={img}
+                                            alt={`Product ${idx}`}
+                                            width={840}
+                                            height={655}
+                                            sizes="(min-width: 1280px) 840px, (min-width: 1024px) 600px, 100vw"
+                                            className="w-full h-auto"
+                                        />
                                     </SwiperSlide>
                                 ))}
                             </Swiper>
@@ -200,9 +210,12 @@ export default function Page() {
                                                 className={`cursor-pointer md:w-[95px] w-[65px] md:h-[95px] h-[65px] rounded-full overflow-hidden md:border-8 border-4 border-white
             ${selectedColor === c.label ? "ring-2 ring-[#73929B]" : ""}`}
                                             >
-                                                <img
+                                                <Image
                                                     src={c.img}
                                                     alt={c.label}
+                                                    width={95}
+                                                    height={95}
+                                                    sizes="(min-width: 768px) 95px, 65px"
                                                     className="w-full h-full object-cover"
                                                 />
                                             </div>
@@ -238,9 +251,12 @@ export default function Page() {
                                                         : ""
                                                     }`}
                                             >
-                                                <img
+                                                <Image
                                                     src={type.img}
                                                     alt={type.label}
+                                                    width={80}
+                                                    height={80}
+                                                    sizes="(min-width: 768px) 80px, 60px"
                                                     className="w-full h-full object-cover"
                                                 />
                                             </div>
@@ -359,7 +375,8 @@ export default function Page() {
                                 </div>
                                 {/* info */}
                                 <div className="md:mt-7 mt-4 md:text-base text-sm font-normal text-[#808080] md:py-5 p-3 flex justify-center border border-[#EDF1F3] items-center uppercase gap-2">
-                                    <img src="/images/product-details/help-circle.svg" width={24} height={24} alt="info" />   Commercial Licensing or Custom Request, Ask Us!
+                                    <Image src="/images/product-details/help-circle.svg" width={24} height={24} alt="Info" />
+                                    Commercial Licensing or Custom Request, Ask Us!
                                 </div>
                             </div>
                         </div>
